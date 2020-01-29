@@ -1,0 +1,24 @@
+{
+  "name": "Chief Detector",
+  "short_name": "Chief Detector",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#3a3b3c",
+  "description": "The application was created for the guards",
+  "icons": [{
+    "src": "/images/icon64.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  },{
+    "src": "/images/icon64.png",
+    "sizes": "64x64",
+    "type": "image/png"
+  },{
+    "src": "/images/icon512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "related_applications": [{
+    "platform": "web"
+  }]
+}
